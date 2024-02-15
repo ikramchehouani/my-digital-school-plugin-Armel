@@ -1,0 +1,17 @@
+{
+    "name": "armel/my-digital-school-plugin",
+    "description": "test",
+    "license": "test",
+    "autoload": {
+        "psr-4": {
+            "Armel\\MyDigitalSchoolPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "armelsteve1",
+            "email": "ouetchouaarmel@yahoo.com"
+        }
+    ],
+    "require": {}
+}
