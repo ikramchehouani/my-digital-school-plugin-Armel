@@ -2,7 +2,7 @@ My Digital School Composer
 Installation
 Cloner le répertoire avec la commande suivante:
 
-git clone https://github.com/Armelsteve1/my-digital-school-plugin.git
+git clone https://github.com/Armelsteve1/my-digital-school-plugin-Armel.git
 ou
 
 composer require my-digital-school-composer.git
